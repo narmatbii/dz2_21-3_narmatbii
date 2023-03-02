@@ -1,0 +1,16 @@
+
+
+
+.todoCard {
+    width: 600px;
+    height: 100px;
+    background-color: #a2ff00;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 4px 4px 20px rgba(185, 186, 185, 0.75);
+    margin-right: 10px;
+    position: relative;
+}
